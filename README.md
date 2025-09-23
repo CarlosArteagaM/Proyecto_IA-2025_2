@@ -1,2 +1,4 @@
-# Proyecto_IA-2025_2
-Curso Introducción a la IA - Universidad de Antioquia
+# INTEGRANTES
+Santiago Herrera Villa
+CC. 1007346538
+Programa: Ingeniería Química
